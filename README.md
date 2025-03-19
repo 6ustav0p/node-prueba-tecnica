@@ -54,7 +54,7 @@ Ejecuta el siguiente comando para iniciar el proyecto:
 npm run dev
 ```
 Esto iniciará el servidor en:
-📍 `http://localhost:3000/`
+ `http://localhost:3000/`
 
 ---
 
@@ -99,9 +99,9 @@ Esto iniciará el servidor en:
 ---
 
  **Consideraciones**
-✔ Los correos electrónicos son únicos.  
-✔ No se pueden crear usuarios sin `nombre` o `email`.  
-✔ La edad es opcional.  
-✔ Las direcciones deben tener `calle`, `ciudad`, `pais` y `codigo_postal`.
+- Los correos electrónicos son únicos.  
+- No se pueden crear usuarios sin `nombre` o `email`.  
+- La edad es opcional.  
+- Las direcciones deben tener `calle`, `ciudad`, `pais` y `codigo_postal`.
 
 ---
